@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **Javascript,Php,Laravel,Nodejs,Reactjs..**
+- 🌱 I’m currently learning **Javascript,Php,Laravel,Nodejs,Reactjs,WordPress.**
 
-- 💬 Ask me about **Javascript,Php,Laravel,Nodejs,Reactjs..**
+- 💬 Ask me about **Javascript,Php,Laravel,Nodejs,Reactjs,WordPress,**
 
 - 📫 How to reach me **https://tonmoy17.xyz**
 
