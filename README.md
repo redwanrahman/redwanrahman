@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript,Php,Laravel,Nodejs,Reactjs,WordPress,**
 
-- 📫 How to reach me **https://tonmoy17.xyz**
+- 📫 How to reach me **https://tonmoy.netlify.app/**
 
 - ⚡ Fun fact **learn and learn**
 
